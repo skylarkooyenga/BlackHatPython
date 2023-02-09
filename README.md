@@ -1,5 +1,5 @@
 # BlackHatPython
-Skylar Kooyenga
+Skylar Kooyenga's
 Python problems learned from the book: Black Hat Python 2nd edition by Justin Seitz and Tim Arnold.
 
 Last updated 2/9/2023
